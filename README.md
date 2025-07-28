@@ -18,3 +18,11 @@ This Verilog module, simple_alu, implements a tiny 4‑bit Arithmetic Logic Unit
 
 code1.v it is a verilog verified by modelsim
 code2_tb.v it is a verilog verified by modelsim
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5d9c554e-9a5c-4ef5-b09a-5274ae9ab932" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4b338aca-aca6-4cc4-9504-32b2ead18ef6" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0322cadf-7873-4300-b4c2-e1d86b118b1f" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2da473a2-140b-4815-ac69-f0233500c33d" />
